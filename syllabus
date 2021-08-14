@@ -1,0 +1,353 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head>
+  
+  <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">
+  <title>STA-173 Statistical Methods, Fall 2021</title>
+
+  
+</head><body>
+<h2><big>STA-173 Statistical Methods, Fall 2021</big></h2>
+
+<span style="font-weight: bold;">Meetings</span> Monday, Wednesday,
+Friday on Microsoft Teams (click <a href="https://teams.microsoft.com/l/team/19%3ae57d363c76c34b48a8594b78eb096fad%40thread.tacv2/conversations?groupId=29f56efd-7e7d-411a-b255-897593631c61&amp;tenantId=f0e0e20b-dffd-4b05-8c6c-74ab98a56cd9">here</a>
+to get there!)<br>
+
+<div style="margin-left: 40px;">01: 8-8:50 am<br>
+02: 9-9:50 am<br>
+03: 11-11:50 am <br>
+</div>
+
+This is an online
+course with a hybrid modality. There will be live meetings during the
+scheduled times (see above) via <a href="https://www.microsoft.com/en-us/microsoft-365/microsoft-teams/download-app">Microsoft
+Teams</a>.
+You can
+download Teams for free for your computer or mobile device. Login using
+your Salve credentials and
+join the course team by going to this <a href="https://teams.microsoft.com/l/channel/19%3a8bafad2db98a40c5a31fd9aea7927a32%40thread.tacv2/General?groupId=7046a50f-0b0e-44d6-8f32-ffec1ea6b870&amp;tenantId=f0e0e20b-dffd-4b05-8c6c-74ab98a56cd9" target="_blank">page</a> or using the code <code>kphkhsa</code>.<br>
+
+<br>
+
+You may think of this course as being in a book club: We will have
+weekly readings to read or videos to watch (all posted on Canvas) and
+afterwards we get together to
+discuss those readings/videos. Thus it is very important that every
+participant comes to the live meetings
+already having read/watched the assigned readings/videos for that week.<br>
+
+<br>
+
+Please note participants will need a computer/tablet (not smart phone)
+with headphones, and reliable internet access to engage in the course
+activities and work the course
+assignments. For the benefit of participants unable to attend live
+meetings,
+<a href="https://salve.instructure.com/courses/3132532/pages/recordings-for-live-meetings/">recordings
+of these</a> will be available on Canvas. If you need assistance
+with technology you may contact our Technology
+Services Center at <a href="mailto:tsc@salve.edu">tsc@salve.edu</a> or
+401-341-7777 for answers to
+technology-related questions.<br>
+
+<br>
+
+<span style="font-weight: bold;">Instructor</span> Carlos Paniagua,
+<a href="mailto:carlos.paniaguamejia@salve.edu">carlos.paniaguamejia@salve.edu</a>.
+You can also reach me on Teams. Please use email for administrative
+issues and Teams for all other <span style="font-style: italic;">quick</span>
+consultations regarding the course. For more in-depth consultations see
+<a href="#Asych">here</a> and the following.<br>
+
+<br>
+
+<span style="font-weight: bold;">Open hours</span> Monday, Wednesday,
+Friday 12-1:50 pm or by appointment.
+If you are unable to attend we can meet at other times by
+appointment.<br>
+
+<br>
+
+<span style="font-weight: bold;">Description</span> This is a
+no-prerequisite introduction to the concepts and methods of Statistics
+and their applications. The search for truth is a human endeavor.
+Statistics deals with putting together records/measurements (called <span style="font-style: italic;">data</span>) about a specific group of
+people or things (called <span style="font-style: italic;">population</span>),
+so that a researcher (a person who systematically seeks for
+truth---perhaps you!) can make educated/reasonable predictions about
+the population in question. This includes looking for structure in the
+data, patterns, and communicating results. Many investigations in the
+sciences, health care, education, government, and industry rely on
+statistical studies for decision making. From the course catalog:
+Topics
+include exploratory data analysis, basic probability distributions,
+sampling distributions, interval estimations, hypothesis testing, and
+significance testing (P-Values) with single, paired and two-sample
+problems.<br>
+
+<br>
+
+<span style="font-weight: bold;">Objectives</span> Upon completion of
+the course participants should be able to<br>
+
+<ol>
+
+  <li>Define Statistics and describe its range of applications</li>
+  <li>Discern appropriate from misleading use of statistics</li>
+  <li>Understand the role of sampling in studying a population</li>
+  <li>Identify the observational units and variables in a statistical
+study</li>
+  <li>Appreciate the importance of averages and variability in data</li>
+  <li>Discern association from causation</li>
+  <li>Appreciate the importance of randomized experiments and random
+assignment in a statistical study</li>
+  <li>Understand and appreciate the basic notions of probability:
+random variable, probability distributions</li>
+  <li>Construct adequate graphs for data sets and construct reasonable
+conjectures (guesses)</li>
+  <li>Apply basic statistical tests for inference, including confidence
+intervals and hypothesis testing</li>
+  <li>Produce numerical and visual summaries of data and perform data
+analysis using software<br>
+  </li>
+</ol>
+
+<ol>
+
+</ol>
+
+<span style="font-weight: bold;">Materials</span> (see <a href="https://salve.instructure.com/courses/3132532/modules">Canvas</a> also)<br>
+
+<ol>
+
+  <li>Textbook: D. Diez, M. �etinkaya-Rundel, C.D. Barr (2019).
+OpenIntro Statistics, 4th Edition. Available for free at <a href="https://www.openintro.org/stat/textbook.php">https://www.openintro.org/stat/textbook.php</a>.</li>
+  <li>Other useful resources:</li>
+</ol>
+
+<ul>
+
+</ul>
+
+<ul>
+
+  <ul>
+    <li> David Lane et al., Online Statistics Education: A Multimedia
+Course of Study. This is an interactive text and is freely available at
+      <a href="http://onlinestatbook.com/2/index.html">http://onlinestatbook.com/2/index.html</a></li>
+    <li>Statistical Inference via Data Science: A ModernDive into R and
+the Tidyverse. A textbook with extra emphasis on use of technology
+(software package R) to perform statistical analysis. This resource is
+also freely available: https://moderndive.com/index.html</li>
+  </ul>
+  <ul>
+  </ul>
+</ul>
+
+<ul style="margin-left: 40px;">
+
+</ul>
+
+<strong>Evaluation</strong> Course assessment will consist of
+participation, quizzes, and homework (yes, there are
+no high-stakes exams!). Standard letter-grade
+scale will apply. The breakdown is as follows.<br>
+
+<ul>
+
+  <li><em>Participation</em> - 10%, continuously throughout the
+semester. More on this <a href="STA-173-06%20Statistical%20Methods,%20Fall%202020.html#Asych">below</a>.</li>
+  <li><em>Quizzes</em> - 30%, about 1 every week. Quick assessments to
+encourage participants to not fall behind.<em></em></li>
+  <li><em>Weekly homework</em> - 60%. Hosted at myopenmath.com within
+Canvas.</li>
+</ul>
+
+<strong>Expectations</strong><br>
+
+<ol start="1">
+
+  <li>Academic Integrity: All students are expected to accept and to
+abide by the values of honesty, integrity, and truthfulness in their
+academic pursuits. Sanctions for violations of academic honesty, such
+as plagiarism or cheating range from failure for the work involved to
+failure in the course. A record of violations and sanctions is
+maintained in the student's file. Any violation may result in dismissal
+from the University (Undergraduate Catalog). Academic honesty is taken
+seriously in this class. Students committing academic dishonesty will
+be subject to the consequences described in the Catalog as determined
+by the professor. In short, everything you turn in must be your own
+work!</li>
+  <div style="margin-left: 40px;">Examples of what is not OK to do:<br>
+  </div>
+  <div style="margin-left: 40px;">
+  <ul>
+    <li>To let someone else see/copy your own work</li>
+    <li>To fail to acknowledge in writing help given/received either
+from
+a person or otherwise</li>
+    <li>To share files with other students</li>
+  </ul>
+  </div>
+  <div style="margin-left: 40px;">
+Examples of what is OK (encouraged) to do:<br>
+  </div>
+  <div style="margin-left: 40px;">
+  <ul>
+    <li>Discuss (talk about) general ideas with other students and with
+your instructor</li>
+  </ul>
+  </div>
+  <li>Before live meetings: That participants will come to live
+meetings having thoroughly read the assigned readings/watched assigned
+videos.</li>
+  <li>During live meetings: I ask that participants will have their
+cameras on at all times and be actively engaged (for example, asking a
+lot of questions!) during discussions.</li>
+  <li><a name="Asych"></a>After live meetings: To be engaged in
+asynchronous discussions on
+Piazza, a Q&amp;A platform within Canvas. I expect participants to make
+    <span style="font-style: italic; font-weight: bold;">at least one
+contribution</span> (question, answer to a
+question, something interesting or useful you discovered, etc.) <span style="font-weight: bold; font-style: italic;">every
+two weeks</span> in order to be in good
+participation standing.<br>
+  </li>
+</ol>
+
+<strong>
+Tentative Schedule</strong> The following is an approximate list
+of topics
+we will cover.
+<ol>
+
+</ol>
+
+<table style="text-align: left; width: 414px; height: 172px;" border="1" cellpadding="2" cellspacing="2">
+
+  <tbody>
+    <tr>
+      <td style="vertical-align: top;">Week<br>
+      </td>
+      <td style="vertical-align: top;">Topic</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">1-2<br>
+      </td>
+      <td style="vertical-align: top;">Why Statistics: general
+introduction and motivation<br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">3-6<br>
+      </td>
+      <td style="vertical-align: top;">Data: samples, stydies,
+experiments,
+summaries, visualization<br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">7-9<br>
+      </td>
+      <td style="vertical-align: top;">Probability: definition,
+distributions, z-score</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">10-12<br>
+      </td>
+      <td style="vertical-align: top;">Estimation (confidence
+intervals) and Hypothesis Testing</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">13<br>
+      </td>
+      <td style="vertical-align: top;">Linear models: regression,
+goodness of fit (time permitting)<br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<span style="font-weight: bold;">Disability Accommodations</span> Face
+to face format: Salve Regina University is committed to providing equal
+access for students with disabilities to all of its programs and
+services in accordance with the Americans with Disabilities Act (ADA)
+of 1990, and Section 504 of the Rehabilitation Act. If you have a
+disability that entitles you to instructional or other accommodations,
+you must register with the Office of Disability Services at the
+Academic Center for Excellence and arrange to provide them with
+documentation of your disability. The Office is open Monday &#8211; Friday
+8:00am &#8211; 4:00pm EST and can be reached by phone (401-341-3150) or via
+email (<a href="mailto:laura.barry@salve.edu">laura.barry@salve.edu</a>).
+The Disability Services Office will provide you with letters of
+accommodation for your professors as appropriate. You should arrange to
+speak with the professor as soon&nbsp; as&nbsp; possible&nbsp;
+(ideally&nbsp; within&nbsp; the&nbsp; first&nbsp; week&nbsp; of&nbsp;
+class)&nbsp; to&nbsp; discuss&nbsp; arrangements&nbsp; for&nbsp;
+implementing&nbsp; your accommodations.<br>
+<br>
+Online format: Salve Regina University is committed to providing equal
+access for students with disabilities to all of its programs and
+services in accordance with the Americans with Disabilities Act (ADA)
+of 1990, and Section 504 of the Rehabilitation Act. If you have a
+disability that entitles you to instructional accommodations and/or
+modifications, you must register with the Office of Disability Services
+at the Academic Center for Excellence (ACE) and arrange to provide them
+with documentation of your disability. You may do this in person
+(McKillop Library 2nd floor), electronically, or via regular mail (c/o
+Disability Services, Salve Regina University, 100 Ochre Point Ave.,
+Newport, RI 02840). The office can be reached by phone at 401-341-3150
+Monday-Friday 8:00-4:00 EST, or via email (<a href="mailto:laura.barry@salve.edu">laura.barry@salve.edu</a>).
+The Disability Services Office will provide you with letters of
+accommodation for your professors as appropriate to your disability
+needs. You will then arrange to speak with your professors as soon as
+possible to discuss arrangements for implementing your accommodations.
+Accommodations are never applied retroactively therefore it is
+important that you make your accommodation arrangements at least two
+weeks before you need them.**Like so many things this Spring, the need
+for accommodations and the process for arranging them may be altered by
+the COVID-19 changes we are experiencing and the safety protocols
+currently in place.<strong><br>
+</strong><br>
+
+<strong>Use of Salve Email</strong> Please note that all official email
+communication at Salve Regina University involving faculty, students,
+and staff is to be conducted using Salve email (addresses ending in
+@salve.edu). Students must regularly check their Salve email for
+important notifications from their faculty, the Registrar, and others.<br>
+<br>
+<span style="font-weight: bold;">Academic Support</span> The Academic
+Center for Excellence (ACE) provides peer tutoring appointments that
+help students at all skill levels achieve academic success. Subject
+tutors review content and provide specific study strategies for courses
+in many disciplines. Writing consultants help any undergraduate student
+with every phase of the writing process from brainstorming to revision.
+ACE also offers mentorship, resources, workshops, and
+community-oriented programs.&nbsp; For more information or to schedule
+an appointment, visit https://salve.edu/academic-center-excellence or
+call (401) 341-2226.<br>
+<br>
+<span style="font-weight: bold;">Credit Hour</span> Federal regulation
+defines a credit hour as an amount of work represented in intended
+learning outcomes and verified by evidence of student achievement that
+is an institutional established equivalence that reasonably
+approximates not less than &#8211;<br>
+(1) One hour of classroom or direct faculty instruction and a minimum
+of two hours of out of class student work each week for approximately
+fifteen weeks for one semester or trimester hour of credit, or ten to
+twelve weeks for one quarter hour of credit, or the equivalent amount
+of work over a different amount of time; or<br>
+(2) At least an equivalent amount of work as required in paragraph (1)
+of this definition for other academic activities as established by the
+institution including laboratory work, internships, practica, studio
+work, and other academic work leading to the award of credit hours.<br>
+&nbsp;<br>
+
+<em>Changes to this syllabus may be made as the instructor deems
+necessary. The most up to date version will be available on the
+syllabus page on Canvas.</em><br>
+
+<br>
+
+</body></html>
