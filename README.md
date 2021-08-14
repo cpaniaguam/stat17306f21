@@ -117,8 +117,8 @@ Optional and highly recommended for those more software oriented: Statistical In
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0pky">h1</th>
-    <th class="tg-0pky">h2</th>
+    <th class="tg-0pky">Week</th>
+    <th class="tg-0pky">Topic</th>
   </tr>
 </thead>
 <tbody>
