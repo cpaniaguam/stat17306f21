@@ -90,21 +90,6 @@ Optional and highly recommended for those more software oriented: Statistical In
 
 4.  After live meetings: To be engaged in asynchronous discussions on Piazza, a Q&A platform within Canvas. I expect participants to make **at least one contribution** (question, answer to a question, something interesting or useful you discovered, etc.) **every two weeks** in order to be in good participation standing.
 
-+-------+---------------------------------------------------------------+
-| Week  | Topic                                                         |
-+=======+===============================================================+
-| 1-2   | Why Statistics: general introduction and motivation           |
-+-------+---------------------------------------------------------------+
-| 3-6   | Data: samples, studies, experiments, summaries, visualization |
-+-------+---------------------------------------------------------------+
-| 7-9   | Probability: definition, distributions, z-scores              |
-+-------+---------------------------------------------------------------+
-| 10-12 | Estimation (confidence intervals) and Hypothesis Testing      |
-+-------+---------------------------------------------------------------+
-| 13    | Linear models: regression, goodness of fit (time permitting)  |
-+-------+---------------------------------------------------------------+
-
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -123,24 +108,24 @@ Optional and highly recommended for those more software oriented: Statistical In
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax">a</td>
-    <td class="tg-0lax">b</td>
+    <td class="tg-0lax">1-2</td>
+    <td class="tg-0lax">Why Statistics: general introduction and motivation </td>
   </tr>
   <tr>
-    <td class="tg-0lax">c</td>
-    <td class="tg-0lax">d</td>
+    <td class="tg-0lax">3-6</td>
+    <td class="tg-0lax">Data: samples, studies, experiments, summaries, visualization</td>
   </tr>
   <tr>
-    <td class="tg-0pky">a</td>
-    <td class="tg-0pky">d</td>
+    <td class="tg-0pky">7-9</td>
+    <td class="tg-0pky">Probability: definition, distributions, z-scores </td>
   </tr>
   <tr>
-    <td class="tg-0pky">yyy</td>
-    <td class="tg-0pky">e</td>
+    <td class="tg-0pky">10-12</td>
+    <td class="tg-0pky">Estimation (confidence intervals) and Hypothesis Testing</td>
   </tr>
   <tr>
-    <td class="tg-0pky">q</td>
-    <td class="tg-0pky">w</td>
+    <td class="tg-0pky">13</td>
+    <td class="tg-0pky">Linear models: regression, goodness of fit (time permitting)</td>
   </tr>
 </tbody>
 </table>## Disability Accommodations
