@@ -90,15 +90,6 @@ Optional and highly recommended for those more software oriented: Statistical In
 
 4.  After live meetings: To be engaged in asynchronous discussions on Piazza, a Q&A platform within Canvas. I expect participants to make **at least one contribution** (question, answer to a question, something interesting or useful you discovered, etc.) **every two weeks** in order to be in good participation standing.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <thead>
   <tr>
@@ -128,7 +119,9 @@ Optional and highly recommended for those more software oriented: Statistical In
     <td class="tg-0pky">Linear models: regression, goodness of fit (time permitting)</td>
   </tr>
 </tbody>
-</table>## Disability Accommodations
+</table>
+
+## Disability Accommodations
 
 Face to face format: Salve Regina University is committed to providing equal access for students with disabilities to all of its programs and services in accordance with the Americans with Disabilities Act (ADA) of 1990, and Section 504 of the Rehabilitation Act. If you have a disability that entitles you to instructional or other accommodations, you must register with the Office of Disability Services at the Academic Center for Excellence and arrange to provide them with documentation of your disability. The Office is open Monday -- Friday 8:00am -- 4:00pm EST and can be reached by phone (401-341-3150) or via email ([laura.barry\@salve.edu](mailto:laura.barry@salve.edu)). The Disability Services Office will provide you with letters of accommodation for your professors as appropriate. You should arrange to speak with the professor as soon  as  possible  (ideally  within  the  first  week  of  class)  to  discuss  arrangements  for  implementing  your accommodations. Online format: Salve Regina University is committed to providing equal access for students with disabilities to all of its programs and services in accordance with the Americans with Disabilities Act (ADA) of 1990, and Section 504 of the Rehabilitation Act. If you have a disability that entitles you to instructional accommodations and/or modifications, you must register with the Office of Disability Services at the Academic Center for Excellence (ACE) and arrange to provide them with documentation of your disability. You may do this in person (McKillop Library 2nd floor), electronically, or via regular mail (c/o Disability Services, Salve Regina University, 100 Ochre Point Ave., Newport, RI 02840). The office can be reached by phone at 401-341-3150 Monday-Friday 8:00-4:00 EST, or via email ([laura.barry\@salve.edu](mailto:laura.barry@salve.edu)). The Disability Services Office will provide you with letters of accommodation for your professors as appropriate to your disability needs. You will then arrange to speak with your professors as soon as possible to discuss arrangements for implementing your accommodations. Accommodations are never applied retroactively therefore it is important that you make your accommodation arrangements at least two weeks before you need them.\*\*Like so many things this Fall, the need for accommodations and the process for arranging them may be altered by the COVID-19 changes we are experiencing and the safety protocols currently in place.
 
