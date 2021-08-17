@@ -76,7 +76,7 @@ Optional and highly recommended for those more software oriented: Statistical In
 
          -   To let someone else see/copy your own work
 
-         -   To fail to acknowledge in writing help given/received either from a person      or otherwise
+         -   To fail to acknowledge in writing help given/received either from a person or otherwise
 
          -   To share files with other students
 
