@@ -139,6 +139,8 @@ Federal regulation defines a credit hour as an amount of work represented in int
 
 (1) One hour of classroom or direct faculty instruction and a minimum of two hours of out of class student work each week for approximately fifteen weeks for one semester or trimester hour of credit, or ten to twelve weeks for one quarter hour of credit, or the equivalent amount of work over a different amount of time; or
 
-(2) At least an equivalent amount of work as required in paragraph (1) of this definition for other academic activities as established by the institution including laboratory work, internships, practica, studio work, and other academic work leading to the award of credit hours.
+(2) At least an equivalent amount of work as required in paragraph (1) of this definition for other academic activities as established by the institution including laboratory work, internships, practicums, studio work, and other academic work leading to the award of credit hours.
+
+## Disclaimer
 
 *Changes to this syllabus may be made as the instructor deems necessary. The most up to date version will be available on the syllabus page on Canvas.*
